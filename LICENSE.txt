@@ -21,7 +21,7 @@
 
 --------------------------------------------------
 MOD 名 / 作品名：硝子の床 MOD（Glass Floor）
-リファレンスバージョン：v1.2.0（Minecraft 1.20.1 / Forge 47.4.0）
+リファレンスバージョン：v1.2.1（Minecraft 1.20.1 / Forge 47.4.0）
 配布元：https://github.com/caramityfox-beep/glass-floor-mod
 
 © 2026 caramityfox-beep All Rights Reserved.
