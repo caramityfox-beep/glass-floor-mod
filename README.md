@@ -4,7 +4,7 @@
 
 ## ダウンロード（リファレンスビルド）
 
-右側の **[Releases](../../releases)** から最新の `glassfloor-1.2.0.jar` をダウンロードし、Minecraft の `mods` フォルダへ配置してください。
+右側の **[Releases](../../releases)** から最新の `glassfloor-1.2.1.jar` をダウンロードし、Minecraft の `mods` フォルダへ配置してください。
 
 - **対応バージョン**: Minecraft `1.20.1` / Forge `47.4.0` 以降
 - **推奨環境**: Embeddium / Rubidium + Oculus（OptiFine は非推奨）
